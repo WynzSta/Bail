@@ -1,7 +1,7 @@
 
 ```
 © Credits
-Modified Baileys @daffadevv
+Modified Baileys Wynz
 Source Bailyes @yumevtc
 ```
 
